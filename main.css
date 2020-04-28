@@ -30,7 +30,7 @@
  .device {
      position: relative;
      margin: 10px;
-     /* float: left;  方便手机端查阅 */
+     float: left; 
      width: 375px;
      height: 667px;
      background-color: #eee;
