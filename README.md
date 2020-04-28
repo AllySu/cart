@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+1.一个基本的购物车包括：选择商品、修改数量／属性、价格的计算，其中还包括判断库存、全选状态的联动等等。
+从读取数据并展示到列表（读）、把商品添加到购物车（增）、修改数量（改）再到删除选中的商品（删），功能完善。
 
-You can use the [editor on GitHub](https://github.com/AllySu/cart/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AllySu/cart/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+2.项目共 2 个页面：商品列表 和 购物清单。涉及列表展示、分类筛选、条件排序、购物车等电商项目常用的功能，
+尽可能覆盖到了Vue基础部分的所有知识点（模板语法、计算属性、样式绑定、条件渲染、列表渲染、事件处理），每段代码也有相应的注释以便参考。
